@@ -1,5 +1,5 @@
 # verilogue-the-mend
-Podcast application that syncs with [Verilogue]{http://www.verilogue.com} "Recommended Recordings"
+Podcast application that syncs with [Verilogue]{(ttp://www.verilogue.com) "Recommended Recordings"
 
 ### Resources
 * [Apple Podcasts Specs](http://www.apple.com/itunes/podcasts/specs.html)
